@@ -8,4 +8,4 @@ function destructivelyAddElementToBeginningOfArray(array,element){
 
 }
 function addElementToEndOfArray(){}
-addElementToBeginningOfArray(chocolateBars,word);
+console.log(addElementToBeginningOfArray(chocolateBars,word));
