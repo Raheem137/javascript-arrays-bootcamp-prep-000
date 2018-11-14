@@ -8,4 +8,4 @@ function destructivelyAddElementToBeginningOfArray(array,element){
 
 }
 function addElementToEndOfArray(){}
-console.log(chocolateBars);
+
